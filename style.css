@@ -1,0 +1,137 @@
+* {
+  text-decoration: none;
+  outline: none;
+  font-size: 14px;
+  list-style-type: none;
+}
+
+.nav__top__right__search {
+  width: 100%;
+  margin-right: 15px;
+}
+.serch {
+  border: 1px solid #f1f2f4;
+  border-radius: 10px;
+  background-color: #f1f2f4;
+  display: flex;
+  align-items: center;
+}
+.serch i {
+  padding: 10px 10px;
+}
+.serch input {
+  border: none;
+  background: transparent;
+  width: 100%;
+  outline: none;
+  padding: 10px 0px;
+}
+.nav__top_left__Right {
+  border: 1px solid #f1f2f4;
+  margin-left: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.nav__top_left__Right__rhit {
+  padding-left: 5px;
+  align-items: center;
+}
+/* <!-- icon__top__Start --> */
+.icon__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.icon__top li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon__top li img {
+  width: 52px;
+  height: 52px;
+}
+
+/* <!-- icon__top__end --> */
+
+.box {
+  border-radius: 10px;
+  background-color: red;
+}
+
+.box-right image {
+  padding: 0px;
+  margin: 0px;
+}
+
+.box__right__down i {
+  color: white;
+}
+
+.box-one {
+  background-color: #007295;
+}
+
+.banerr {
+  background-color: #ecf0ee;
+}
+
+.fotter__baner {
+  background-color: #007295;
+}
+
+.box_digi {
+  background-color: #941b80;
+  border-radius: 10px;
+}
+
+.amazing {
+  border-left: solid 1px #d0d0d0;
+}
+.baner__title {
+  color: #39ae00;
+}
+.baner_bg {
+  background-color: #edf0ef;
+  border-radius: 10px;
+}
+
+.baner_tf {
+  background-color: #39ae00;
+  border-radius: 10px;
+  padding: 2px;
+}
+.box {
+  border: solid 1px#d0d0d0;
+}
+.ioco {
+  color: yellow;
+}
+
+.box-footer {
+  border: solid 2px#d0d0d0;
+  border-radius: 10px;
+}
+
+.boxing {
+  padding: 10px;
+  border: solid 1px#d0d0d0;
+  border-radius: 10px;
+  background-color: #f7f7f7;
+}
+
+.border_left {
+  border-left: solid 1px #d0d0d0;
+}
+
+.bi-star-fill {
+  color: yellow;
+}
+
+.bss {
+  color: chocolate;
+  background-color: burlywood;
+  padding: 4px;
+  border-radius: 10px;
+}
